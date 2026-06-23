@@ -11,7 +11,7 @@
 - 🔭 Actualmente trabajando en **proyectos personales**
 - 🌱 Aprendiendo **nuevas tecnologías** cada día
 - 👯 Buscando colaborar en **proyectos interesantes**
-- 💬 Pregúntame sobre **programación, tecnología y videojuegos**
+- 💬 Pregúntame sobre **Hacking Etico y CTF**
 - ⚡ Dato curioso: **Soy apasionado por la tecnología**
 
 ---
